@@ -1,10 +1,10 @@
 ACC - Adxl345 for Suli
 -------------------------------------------------------------
-![image](http://www.seeedstudio.com/wiki/images/1/17/3-axis_Accelerometer_ADXL345.jpg)
+![image](http://www.seeedstudio.com/depot/images/P3202390.jpg)
 
-This is a high resolution digital accelerometer providing you at max 3.9mg/LSB resolution and large ±16g measurement range. It's base on an advanced 3-axis IC ADXL345. Have no worry to implement it into your free-fall detection project, cause it's robust enough to survive upto 10,000g shock. Meanwhile, it's agile enough to detect single and double taps.It's ideal for motion detection, Gesture detection as well as robotics.
+This product is a high accuracy temperature and humidity sensor used in home conditions. It consists of a capacitive sensor element used for measuring relative humidity and a negative temperature coefficient (NTC) thermistor used for measuring temperature. Every sensor was calibrated in an accurate humidity room. Small dimension, ultra low power consumption, more than 20m's signal transmission distance make it a good selection for various application environment. Different from Twig - Temp&Humi Sensor v0.9b, the accuracy of this module can gets up to 0.3 degree in temperature and 2% in relative humidity.
 
-For more information, please refer to [Grove_3Axis_Digital_Accelerometer_ADXL345][1]
+For more information, please refer to [http://www.seeedstudio.com/depot/Grove-TemperatureHumidity-Sensor-Pro-p-838.html?cPath=25_125][1]
 
 
 -----
