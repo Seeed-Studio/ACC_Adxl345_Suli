@@ -1,11 +1,10 @@
-LED Bar Suli
+ACC - Adxl345 for Suli
 -------------------------------------------------------------
-![image](http://www.seeedstudio.com/wiki/images/3/33/Sidekick_19_0.png)
+![image](http://www.seeedstudio.com/wiki/images/1/17/3-axis_Accelerometer_ADXL345.jpg)
 
-LED Bar, common in volume display, is a common sensor component to display analog value. You can use a row of discrete LED lights to make division of this effect, you can also use our element mentioned here. 
+This is a high resolution digital accelerometer providing you at max 3.9mg/LSB resolution and large ±16g measurement range. It's base on an advanced 3-axis IC ADXL345. Have no worry to implement it into your free-fall detection project, cause it's robust enough to survive upto 10,000g shock. Meanwhile, it's agile enough to detect single and double taps.It's ideal for motion detection, Gesture detection as well as robotics.
 
-For more information, please refer to [Grove_LED_Bar][1]
-
+For more information, please refer to [Grove_3Axis_Digital_Accelerometer_ADXL345][1]
 
 
 -----
