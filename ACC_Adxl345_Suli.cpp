@@ -53,7 +53,7 @@ void readFrom(uint8 address, uint8 num, uint8 buff[])
     uint8 dta_send[] = {address};
 
     suli_i2c_write(__I2C_Device, ADXL345_DEVICE, dta_send, 1);
-    suli_i2c_read(__I2C_Device, ADXL345_DEVICE, buff, (uint8*)&num);
+    suli_i2c_read(__I2C_Device, ADXL345_DEVICE, buff, num);
 
 }
 
