@@ -1,6 +1,6 @@
 /*
   Seeed_LED_Bar.cpp
-  This is a Suly compatible Library
+  This is a Suli compatible Library
   
   2014 Copyright (c) Seeed Technology Inc.  All right reserved.
   
