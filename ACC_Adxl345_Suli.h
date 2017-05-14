@@ -1,6 +1,6 @@
 /*
   acc_adxl345.h
-  This is a Suly-compatible Library
+  This is a Suli-compatible Library
   
   2014 Copyright (c) Seeed Technology Inc.  All right reserved.
   
